@@ -1,0 +1,835 @@
+.sec1{
+    background-image: url(wrksite.jpeg);
+    /* min-height: 600px; */
+    background-size: cover;
+    padding-bottom:5% ;
+}
+.search{
+    background-color: white;
+    background-color: transparent !important;
+    border-color: grey !important;
+
+}
+.home{
+    text-transform: uppercase;
+    color:darkgoldenrod !important ;
+}
+.about{
+    text-transform: uppercase;
+}
+.inbox1{
+     margin-top: 150px;
+}
+.h1{
+    text-transform: capitalize;
+    color:#f1ad0e;
+    font-weight: bold;
+   
+}
+.inbox1a{
+    min-height: 250px;
+    /* width: 400px; */
+    background-color:rgba(0, 0, 0, 0.511);
+    margin-top: 5%;
+}
+.build{
+    text-transform: uppercase;
+    color: white;
+    font-size: 25px;
+    margin-left: 50px;
+    padding-top: 50px;
+}
+.bi{
+    color:#efac16;
+    font-size: 500%;
+}
+.sint{
+    text-transform: capitalize;
+    color: rgba(255, 255, 255, 0.609);
+    font-size: 20px;
+    margin-left: 50px;
+    padding-top: 20px;
+}
+.more{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white; 
+    margin-left: 50px;
+    border: 2px solid #efaa16c9 ;
+    padding: 10px 40px;
+}
+.sec2{
+    /* min-height: 400px; */
+    margin-bottom: 80px;
+}
+.inbox2{
+    background-image: url(worker1copy.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 700px;
+    padding: 50px 0px;
+    margin-top: 80px;
+    
+}
+.nate{
+    color: white;
+    text-transform: uppercase;
+    padding-top: 350px;
+    text-align: center;
+    font-size: 25px;
+}
+.sample{
+    color: rgba(255, 255, 255, 0.729);
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 13px;
+}
+.sign{
+    font-family: Kunstler Script;
+    text-transform: capitalize;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    
+}
+.inbox2a{
+    /* text-align: center; */
+    
+}
+.h2need{
+    text-transform: capitalize;
+    padding-top: 80px;
+    margin-top: 60px;
+    text-align: center;
+    font-weight: bold;
+    font-size:30px;
+}
+.line{
+    height: 10px;
+    background-color: #f1ad0e;
+    width: 50px;
+    /* text-align: center; */
+    margin: auto;
+    margin-top: 40px;
+    
+}
+.h2para{
+    text-align: center;
+    text-transform: capitalize;
+    padding-top: 80px;
+    font-size: 13px;
+    font-weight: bold;
+    /* margin-top: 50px; */
+}
+.inbox2b{
+    background-color:rgba(128, 128, 128, 0.126);
+    padding-top:50px;
+    margin-top: 145px;
+    min-height: 200px;
+    text-align: center;
+    padding: 30px;
+}
+.h2para2{
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    /* padding-top:; */
+    
+}
+.more2{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    background-color:#efac16 ;
+    font-size: 15px; 
+    padding: 7px 35px;
+    
+}
+.sec3{
+    /* min-height: 700px; */
+    background-color:rgba(128, 128, 128, 0.126) ;
+    padding-bottom: 60px;
+}
+.inbox3a{
+    margin-top: 80px;
+}
+.block{
+    text-transform: uppercase;
+    /* text-align: center; */
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 25px;
+}
+.dui{
+    margin-left: 25px;
+    font-size: 13px;
+    font-weight: 10px;
+    margin-top: 20px;
+}
+.inbox3b{
+   
+   min-height: 200px;
+   background-size: cover;
+   text-align: right;
+   margin-top: 80px;
+}
+.inbox3c{
+    margin-left: 25px;
+    margin-top: 40px;
+}
+.inbox3d{
+    margin-top: 40px;
+    
+}
+.earn{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.check{
+    color: #efac16;
+    font-size: 20px;
+    
+}
+.ul{
+    margin: 0px;
+    padding: 0px;
+}
+.li{
+    text-transform: capitalize;
+    font-size: 13px;
+    font-weight: bold;
+}
+.inbox4{
+    text-align: center;
+    margin-top: 70px;
+}
+.wood{
+    font-size: 60px;
+    text-transform:capitalize ;
+    font-weight: bold;
+}
+.parawood{
+    font-size: 13px;
+    font-weight: 20px;
+}
+.inbox5a1{
+    background-color: #f1ad0e;
+    min-height: 250px;
+    text-align: center;
+    margin: 5%;
+}
+.us{
+    color: white;
+    text-transform:uppercase ;
+    font-size: 20px;
+    padding-top: 50px;
+}
+.mauris{
+    color: white;
+    font-size: 13px;
+    padding-top: 20px;
+}
+.inbox5a2{
+    /* background-color: #f1ad0e; */
+    min-height: 250px;
+    text-align: center;
+    background-image: url(carpenter2.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: 5%;
+}
+.inbox5a3{
+    background-color: #f1ad0e;
+    min-height: 250px;
+    text-align: center;
+    margin: 5%;
+}
+.inbox5b1{
+    /* background-color: #f1ad0e; */
+    min-height: 250px;
+    text-align: center;
+    margin-top: 20px;
+    background-image: url(carpenter3.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: 5%;
+}
+.inbox5b2{
+    background-color:white;
+    min-height: 260px;
+    text-align: center;
+    margin-top: 20px;
+    margin: 5%;
+}
+.our{
+    color:black;
+    text-transform:uppercase ;
+    font-size: 20px;
+    padding-top: 50px;
+}
+.mission{
+    color: black;
+    font-size: 13px;
+    padding-top: 20px;
+}
+.inbox5b3{
+    /* background-color: #f1ad0e; */
+    min-height: 250px;
+    text-align: center;
+    margin-top: 20px;
+    background-image: url(carpenter6.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: 5%;
+}
+.sec4{
+    /* min-height: 300px; */
+    background-image: url(lap5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.inbox6a{
+    min-height: 300px;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.black{
+    background-color: rgba(0, 0, 0, 0.822);
+}
+.person{
+    color: #efac16;
+    font-size: 50px;
+}
+.num{
+    color: white;
+    font-size: 70px;
+}
+.special{
+    color: #efaa16bb;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.inbox6b{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.inbox6c{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.inbox6d{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.sec5{
+    /* min-height: 700px; */
+    margin-bottom: 20px;
+}
+.inbox7{
+    min-height: 30px;
+    background-color: #f1ad0e;
+    margin-top: 50px;
+    text-align: center;
+}
+.description{
+    color: white;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding-top: 3px;
+    font-weight: bold;
+}
+.inbox7a{
+    min-height: 30px;
+    margin-top: 50px;
+    text-align: center;
+}
+.speci{
+    color: black;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding-top: 5px;
+    font-weight: bold;
+}
+.inbox7b{
+    min-height: 200px;
+    margin-top: 30px;
+    background-size: cover;
+}
+.inbox7b1{
+    margin-top: 30px;
+}
+.des{
+    color: black;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+}
+.text{
+    color:rgba(128, 128, 128, 0.654);
+    text-transform: capitalize;
+    font-size: 13px;
+    
+}
+.points{
+    text-transform: capitalize;
+    font-size: 13px;
+    font-weight: bold;
+}
+.inbox7c1{
+    text-align: center;
+    margin-top: 100px;
+}
+.price{
+    font-size: 60px;
+    text-transform:capitalize ;
+    font-weight: bold;
+}
+.paraprice{
+    font-size: 13px;
+    font-weight: 20px;
+}
+.inboxb3{
+    min-height: 100px;
+    background-color:#f8dd9a;
+    text-align: center;
+    margin-top: 10px;
+}
+.basic{
+    font-size: 20px;
+    text-transform: uppercase;
+    /* padding-top: 10px; */
+    font-weight: bold;
+}
+.b30{
+    font-size: 40px;
+    font-weight: bold;
+}
+.inbox7ca{
+    min-height:300px;
+    background-color: cornsilk;
+    text-align: center;
+    padding-top: 20px;
+}
+.user{
+    font-size: 13px;
+    color: black;
+    font-weight: 30px;
+}
+.buy{
+    background-color:#f8dd9a;
+    font-size:15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    padding: 5px 15px;
+    margin-top: 20px;
+    display: inline-block;
+    font-weight: bold;
+    
+}
+.inboxs6{
+    min-height: 100px;
+    background-color:#f1ad0e;
+    text-align: center;
+    margin-top: 10px;
+}
+.stan{
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-top: 10px;
+    font-weight: bold;
+    color: white;
+}
+.s60{
+    font-size: 40px;
+    font-weight: bold;
+}
+.inbox7cb{
+    min-height:300px;
+    background-color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+.buy2{
+    background-color:#f1ad0e;
+    font-size:15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    padding: 5px 15px;
+    margin-top: 20px;
+    display: inline-block;
+    font-weight: bold;
+    
+}
+.inbox7cc{
+    min-height:200px;
+    background-color: white;
+    /* padding-top: 10px; */
+    margin: 5%;
+
+    
+}
+.sec6{
+    background-image: url(wrksite.jpeg);
+    background-size: cover;
+    /* min-height: 700px; */
+}
+.inbox8{
+    text-align: center;
+    padding-top: 50px;
+}
+.comp{
+    text-transform: capitalize;
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+}
+.reno{
+    color: white;
+    font-size: 15px;
+    padding-top: 20px;
+}
+.inbox8a{
+    min-height: 200px;
+    background-color: white;
+    text-align: center;
+    /* padding-top: 30px; */
+    margin-top: 30px;
+    padding: 40px;
+
+    
+}
+.img{
+    border-radius: 50%;
+
+}
+.desi{
+    text-transform: uppercase;
+    font-size: 20px;
+    /* padding-top: 10px; */
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.inbox8b{
+    min-height: 200px;
+    background-color: white;
+    text-align: center;
+    padding: 40px;
+    margin-top: 30px;
+    
+}
+.img{
+    border-radius: 50%;
+
+}
+.desi{
+    text-transform: uppercase;
+    font-size: 20px;
+    /* padding-top: 40px; */
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.inbox8c{
+    min-height: 200px;
+    background-color: white;
+    text-align: center;
+    padding: 40px;
+    margin-top: 30px;
+    
+}
+.img{
+    border-radius: 50%;
+
+}
+.desi{
+    text-transform: uppercase;
+    font-size: 20px;
+    /* padding-top: 40px; */
+    font-weight: bold;
+    padding-bottom: 20px;
+
+}
+.inbox8d{
+    min-height: 200px;
+    background-color: white;
+    text-align: center;
+    padding: 40px;
+    margin-top: 30px;
+    
+}
+.img{
+    border-radius: 50%;
+
+}
+.desi{
+    text-transform: uppercase;
+    font-size: 20px;
+    /* padding-top: 40px; */
+    font-weight: bold;
+    padding-bottom: 20px;
+
+}
+.inbox8a1{
+    text-align: center;
+    margin-top: 30px;
+    
+    
+    
+}
+.view{
+    color: white;
+    border: 2px solid rgba(255, 255, 255, 0.74) ;
+    padding: 10px 40px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    /* margin-top: 20px; */
+    display: inline-block;
+    margin-bottom: 20px;
+    
+}
+.sec7{
+    /* min-height: 600px; */
+    background-color: rgba(128, 128, 128, 0.315);
+    
+}
+.inbox9{
+    text-align: center;
+    margin-top: 40px;
+}
+.read{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+
+.inbox9a{
+    min-height: 200px;
+    background-color: white;
+    padding: 100px;
+    margin-top: 40px;
+    border-radius: 2%;
+}
+.proin{
+    font-size: 15px;
+    font-weight: bold;
+}
+.inbox9b{
+    padding-top: 20px;
+}
+.celia{
+    border-radius: 50%;
+}
+.inbox9c{
+    margin-top: 10px;
+    /* text-align: left; */
+}
+.al{
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.ceo{
+    font-size: 15px;
+}
+.inbox9a2{
+    min-height: 200px;
+    background-color: white;
+    padding: 100px;
+    margin-top: 40px;
+    border-radius: 2%;
+}
+.inbox9b2{
+    padding-top: 20px;
+}
+.inbox9c2{
+    margin-top: 10px;
+}
+.inbox9a3{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.vm{
+    text-transform: uppercase;
+    color: white;
+    background-color: #efac16;
+    text-decoration: none;
+    padding: 5px 15px;
+    display: inline-block;
+    margin-bottom: 20px;
+    
+}
+.sec8{
+    background-image: url(wrksite3.jpeg);
+    /* height: 400px; */
+    background-size: cover;
+    padding-bottom: 2;
+    
+}
+
+    
+
+.inbox10a{
+    text-align: center;
+    background-color: white;
+    margin-top: 100px;
+    min-height: 200px;
+    padding: 40px;
+}
+.geo{
+    font-size: 30px;
+    color: #efac16;
+}
+.ads{
+    color: black;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.venue{
+    font-size: 16px;
+    text-transform: capitalize;
+}
+.inbox10b{
+    text-align: center;
+    background-color:#efac16;
+    margin-top: 100px;
+    min-height: 200px;
+    padding: 40px;
+    margin-bottom: 20px;
+}
+.phn{
+    font-size: 30px;
+    color: white;
+}
+.ph{
+    color: white;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.num{
+    font-size: 16px;
+    text-transform: capitalize;
+    color: white;
+}
+.inbox10c{
+    text-align: center;
+    background-color: white;
+    margin-top: 100px;
+    min-height: 200px;
+    padding: 40px;
+}
+.geo{
+    font-size: 30px;
+    color: #efac16;
+}
+.ads{
+    color: black;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.mail{
+    font-size: 16px;
+    /* text-transform: capitalize; */
+}
+.sec9{
+    /* min-height: 100px ; */
+    background-color: black;
+}
+.inbox11{
+    text-align: center;
+    padding-top: 25px;
+}
+.last{
+    color: rgba(255, 255, 255, 0.631);
+    font-size: 15px;
+}
+@media(max-width:575px){
+    .inbox1{
+        margin-top: 40px;
+    }
+    
+    .inbox2{
+        margin-top: 30px;
+        padding: 35px;
+    }
+    .h2need{
+        padding-top: 15px;
+        margin-top: 15px;
+    }
+    .h2para{
+        padding-top: 30px;
+    }
+    .inbox2b{
+        margin-top: 40px;
+        padding-top: 30px;
+    }
+    .inbox3a{
+        margin-top: 30px;
+    }
+    .dui{
+        margin-top: 15px;
+    }
+    .inbox4{
+        margin-top: 30px;
+    }
+    .wood{
+        font-size: 55px;
+    }
+    .us{
+        padding-top: 30px;
+    }
+    .mauris{
+        padding-top: 25px;
+    }
+    .inboxc{
+        margin-left: 0px;
+    }
+    .inbox10a{
+        margin-top: 50px;
+    }
+    .sec8{
+        padding-bottom: 20px;
+    }
+
+}
+@media(max-width:991px){
+    .inbox2b{
+        margin-top: 0px;
+        padding: 27px;
+    }
+    .our{
+        padding-top: 25px;
+    }
+    .inbox5b2{
+        min-height: 250px;
+    }
+    .us{
+        padding-top: 25px;
+    }
+    .inbox9a{
+        padding: 40px;
+    }
+    .inbox9a2{
+        padding: 40px;
+    }
+
+}
+
+
+
+
+
+
+
