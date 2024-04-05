@@ -1,3 +1,6 @@
+.sec0{
+    overflow:hidden;
+}
 .sec1{
     background-image: url(wrksite.jpeg);
     /* min-height: 600px; */
